@@ -1,0 +1,3 @@
+使用multiprocessing模块: 派生Process的子类，重写run方法
+使用进程池Pool
+使用multiprocessing模块: 创建Process的实例，传入任务执行函数作为参数
